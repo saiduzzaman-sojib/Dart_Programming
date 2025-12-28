@@ -1,8 +1,7 @@
-# Dart_Programming
-My personal notes and code for Dart.
 # 🎯 Dart Programming Repository
 
 My personal collection of Dart code and notes.
+
 
 ## 📂 Project Structure
 
