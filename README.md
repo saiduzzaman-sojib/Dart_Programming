@@ -8,19 +8,19 @@ Welcome to my personal learning repository. Here is the structure of my journey:
 📦 Dart_Programming
  ┣ 📂 01_Basics
  ┃ ┣ 📜 variables.dart
- ┃ ┗ 📜 readme.md .................... ✅ Completed
+ ┃ ┗ 📜 readme.md 
  ┃
  ┣ 📂 02_Control_Flow
  ┃ ┣ 📜 loops.dart
  ┃ ┣ 📜 conditions.dart
- ┃ ┗ 📜 readme.md .................... 🚧 In Progress
+ ┃ ┗ 📜 readme.md 
  ┃
- ┣ 📂 03_Functions ................... ⏳ Waiting
+ ┣ 📂 03_Functions 
  ┃ ┣ 📜 basic_funcs.dart
  ┃ ┗ 📜 arrow_funcs.dart
  ┃
- ┣ 📂 04_Collections ................. ⏳ Waiting
+ ┣ 📂 04_Collections 
  ┃
- ┣ 📂 05_OOP ......................... ⏳ Waiting
+ ┣ 📂 05_OOP 
  ┃
  ┗ 📜 README.md (You are here)
