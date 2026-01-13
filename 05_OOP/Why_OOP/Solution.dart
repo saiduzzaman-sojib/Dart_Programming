@@ -29,3 +29,4 @@ void main() {
   user2.printInfo();
   user3.printInfo();
 }
+//OOP allows you to hide data (Encapsulation). You can make the amount variable "private" so no one can touch it directly.
