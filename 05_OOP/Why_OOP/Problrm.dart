@@ -23,3 +23,6 @@ int main ()
 // This code create a problem that if we create 100 new user then
 // we shound remember the function name its really deficult ,So remembering 
 // this problem the concept of OOP is born
+
+//Also the safety issu ,if anyone accidently write the amount=-4000 anywhere in the function there is now way to stop
+
